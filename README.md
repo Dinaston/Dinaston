@@ -1,16 +1,31 @@
-### Hi there 👋
+# ![emichel](https://github.com/emicheldev/emicheldev/blob/master/twitter-min.jpg)
 
-<!--
-**Dinaston/Dinaston** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Salut 👋
 
-Here are some ideas to get you started:
+Je suis un développeur qui cherche à résoudre les problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible. 
+Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à m'appeler [@Dinaston](https://twitter.com/Dinaston_offi/) ou à me donner un peu de ♥ sur [mail](mailto:contact.dinaston@gmail.com). N'hésitez pas à me contacter au cas où vous voudriez également me joindre.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align='center'>
+  <a href="https://twitter.com/Dinaston_offi"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/Diinaston.offi/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;
+  <a href="mailto:contact.dinaston@gmail.com"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/envelope-alt.png?raw=true"></a>
+  <a href="https://www.youtube.com/channel/UC1ksthHv7Z9G3kUCW4YetSw"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;
+</p>
+
+<details>
+ <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
+   - PHP  <br/>
+   - PHP Orienté Objet <br/>
+   - HTML <br/>
+   - CSS <br/>
+   - C#
+   - Lua
+</details>
+
+![Les statistiques d'e.michel sur les github](https://github-readme-stats.vercel.app/api?username=Dinaston&show_icons=true&hide=["prs","issues","contribs"])
+
+<p> 
+
+[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+<img src="https://visitor-badge.glitch.me/badge?page_id=Dinaston.visitor-badge"/> 
+</p>
