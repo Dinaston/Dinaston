@@ -3,13 +3,11 @@
 ### Salut 👋
 
 Je suis un développeur qui cherche à résoudre les problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible. 
-Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à m'appeler [@Dinaston](https://twitter.com/Dinaston_offi/) ou à me donner un peu de ♥ sur [mail](mailto:contact.dinaston@gmail.com). N'hésitez pas à me contacter au cas où vous voudriez également me joindre.
+Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à m'appeler [@Dinaston](https://twitter.com/Dinaston_offi/) ou à me donner un peu de ♥. N'hésitez pas à me contacter au cas où vous voudriez également me joindre.
 
 <p align='center'>
   <a href="https://twitter.com/Dinaston_offi"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/Diinaston.offi/"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/instagram-alt.png?raw=true"></a>&nbsp;&nbsp;
-  <a href="mailto:contact.dinaston@gmail.com"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/envelope-alt.png?raw=true"></a>
-  <a href="https://www.youtube.com/channel/UC1ksthHv7Z9G3kUCW4YetSw"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/youtube.png?raw=true"></a>&nbsp;&nbsp;
+</a>&nbsp;&nbsp;
 </p>
 
 <details>
