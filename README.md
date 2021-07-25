@@ -10,7 +10,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 </a>&nbsp;&nbsp;
 </p>
 
-<details>
+
  <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
   <br> - PHP  <br/>
   <br> - PHP Orienté Objet <br/>
@@ -18,7 +18,7 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
    <br>- CSS <br/>
   <br> - C# <br/>
  <br>  - Lua <br/>
-</details>
+
 
 ![Les statistiques d'e.michel sur les github](https://github-readme-stats.vercel.app/api?username=Dinaston&show_icons=true&hide=["prs","issues","contribs"])
 
