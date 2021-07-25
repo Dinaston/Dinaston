@@ -12,12 +12,12 @@ Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez
 
 <details>
  <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
-   - PHP  <br/>
-   - PHP Orienté Objet <br/>
-   - HTML <br/>
-   - CSS <br/>
-   - C#
-   - Lua
+  <br> - PHP  <br/>
+  <br> - PHP Orienté Objet <br/>
+  <br> - HTML <br/>
+   <br>- CSS <br/>
+  <br> - C# <br/>
+ <br>  - Lua <br/>
 </details>
 
 ![Les statistiques d'e.michel sur les github](https://github-readme-stats.vercel.app/api?username=Dinaston&show_icons=true&hide=["prs","issues","contribs"])
