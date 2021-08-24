@@ -1,29 +1,44 @@
-# ![emichel](https://github.com/emicheldev/emicheldev/blob/master/twitter-min.jpg)
-
-### Salut 👋
-
-Je suis un développeur qui cherche à résoudre les problèmes du monde réel. J'ai la passion d'apprendre et de partager mes connaissances avec les autres aussi publiquement que possible. 
-Si vous avez trouvé de la valeur dans quelque chose que j'ai créé, n'hésitez pas à m'appeler [@Dinaston](https://twitter.com/Dinaston_offi/) ou à me donner un peu de ♥. N'hésitez pas à me contacter au cas où vous voudriez également me joindre.
-
 <p align='center'>
-  <a href="https://twitter.com/Dinaston_offi"><img height="24" src="https://github.com/emicheldev/emicheldev/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-</a>&nbsp;&nbsp;
+  <b>Hi 👋, I'm Dinaston</b><br>
+  <a href="https://discord.gg/Dinaston#0001">Discord</a> |
+  <a href="https://www.youtube.com/channel/UC1ksthHv7Z9G3kUCW4YetSw">YouTube</a> |
+  <a href="https://twitter.com/Dinaston_offi">Twitter</a> |
+
+</p>
+
+<p align="center"><br>
+  <a href="https://github.com/Dinaston">
+    <img src="https://discord.c99.nl/widget/theme-1/602176764994781323.png"/>
+     </a>
+</p>
+
+<br><br>
+<p align="center">
+	<b>Languages & Frameworks</b>
+	<br>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+	<br><br>
+	<b>My Github Stats</b><br>
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=Dinaston&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=Dinaston&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dinaston&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
 </p>
 
 
- <summary><strong>Ce que j'apprends/travaille ces jours-ci :</strong></summary>
-  <br> - PHP  <br/>
-  <br> - PHP Orienté Objet <br/>
-  <br> - HTML <br/>
-   <br>- CSS <br/>
-  <br> - C# <br/>
- <br>  - Lua <br/>
+<p>&nbsp;</p>    
 
+---  
 
-![Les statistiques d'e.michel sur les github](https://github-readme-stats.vercel.app/api?username=Dinaston&show_icons=true&hide=["prs","issues","contribs"])
-
-<p> 
-
-[![Open Source Love png2](https://badges.frapsoft.com/os/v2/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
-<img src="https://visitor-badge.glitch.me/badge?page_id=Dinaston.visitor-badge"/> 
+<p align="center"> 
+  Compteur de visites :<br>
+  <img src="https://profile-counter.glitch.me/Dinaston/count.svg" />
 </p>
